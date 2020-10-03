@@ -143,3 +143,6 @@ Name: [Harsh Vijay](https://github.com/hvijaycse)<br/>
 Place: Pink City, India<br/>
 About: ML Developer<br/>
 <br/>
+Name: [TechGirl007](https://github.com/techgirl007)<br/>
+Place: Western Australia<br/>
+About: Newbie, Studying Law<br/>
